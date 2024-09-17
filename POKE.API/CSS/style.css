@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+}
+
+body{
+    background-color: rgb(240, 156, 78);
+}
+
+.input-container{
+    text-align: center;
+}
